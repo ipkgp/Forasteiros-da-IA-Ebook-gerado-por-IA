@@ -1,4 +1,4 @@
-# 📘 Ebook: Técnicas de Engenharia de Prompt
+# 📘 Ebook: Forasteiros da IA - Técnicas de Engenharia de Prompt
 
 <p align="center">
   <img src="EbookIA-ForasteirosDaIA/CapaREADME.png" alt="Capa do Ebook Técnicas de Engenharia de Prompt" width="300px">
