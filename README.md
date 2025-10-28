@@ -11,7 +11,7 @@
 2. [🧭 Conteúdo do Ebook](#-conteúdo-do-ebook)  
 3. [⚙️ Ferramentas utilizadas](#️-ferramentas-utilizadas)  
 4. [🧾 Histórico Organizado de Prompts](#-histórico-organizado-de-prompts--ebook-engenharia-de-prompt)  
-5. [👨‍💻 Autor](#-autor)  
+5. [👨‍💻 Autor](#autor)  
 6. [🔗 Acesse o Ebook](#-acesse-o-ebook)  
 7. [🧠 Frase de encerramento](#-frase-de-encerramento)
 
