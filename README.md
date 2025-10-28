@@ -165,7 +165,7 @@ Feito com ❤️ por **Pedro Pereira**
 ---
 
 ## 🔗 Acesse o Ebook
-📄 [Clique aqui para visualizar o ebook completo](./Ebook-Técnicas_de_Eng_de_Prompt.pdf)
+📄 [Clique aqui para visualizar o ebook completo](EbookIA-ForasteirosDaIA/Forasteiros_da_IA_Técnicas_de_Eng.pdf)
 
 ---
 
