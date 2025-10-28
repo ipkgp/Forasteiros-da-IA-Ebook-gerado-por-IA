@@ -1,7 +1,7 @@
 # 📘 Ebook: Forasteiros da IA - Técnicas de Engenharia de Prompt
 
 <p align="center">
-  <img src="EbookIA-ForasteirosDaIA/CapaREADME.png" alt="Capa do Ebook Técnicas de Engenharia de Prompt" width="300px">
+  <img src="EbookIA-ForasteirosDaIA/CapaREADME.png" alt="Capa para README - Técnicas de Engenharia de Prompt" width="300px">
 </p>
 
 <!-- Substitua o nome acima pelo arquivo exato da sua capa, por exemplo: "A_flat_digital_illustration_serves_as_the_cover_de.png" -->
