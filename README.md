@@ -1,7 +1,7 @@
 # 📘 Ebook: Técnicas de Engenharia de Prompt
 
 <p align="center">
-  <img src="./CapaREADME.png" alt="Capa do Ebook Técnicas de Engenharia de Prompt" width="600px">
+  <img src="EbookIA-ForasteirosDaIA/CapaREADME.png" alt="Capa do Ebook Técnicas de Engenharia de Prompt" width="600px">
 </p>
 
 <!-- Substitua o nome acima pelo arquivo exato da sua capa, por exemplo: "A_flat_digital_illustration_serves_as_the_cover_de.png" -->
